@@ -203,18 +203,6 @@ D. Lifestyle Advice
 
 ---
 
-## 📂 Repository Structure
-
-```
-/README.md
-/screenshots/
-/sample-input.txt
-/sample-output.pdf
-/app-link.txt
-```
-
----
-
 ## 🔮 Future Enhancements
 
 - Add calorie tracking integration  
@@ -245,10 +233,5 @@ Always consult a licensed healthcare professional before making dietary or medic
 ---
 
 ## 📜 License
-
-Developed as part of:
-
-TalentSprint – Applied Generative AI & Agentic AI Program  
-Mini Project 1  
 
 Educational Use Only.
